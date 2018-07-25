@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_magnitude_label</item>
+        <item>@string/settings_order_by_most_recent_time_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_ordeR_by_magnitude_value</item>
+        <item>@string/settings_order_by_most_recent_time_value</item>
+    </string-array>
+
+    <string-array name="limit_labels">
+        <item>@string/settings_limit_10</item>
+        <item>@string/settings_limit_25</item>
+        <item>@string/settings_limit_50</item>
+    </string-array>
+
+    <string-array name="limit_values">
+        <item>@string/settings_limit_10</item>
+        <item>@string/settings_limit_25</item>
+        <item>@string/settings_limit_50</item>
+    </string-array>
+
+
+
+</resources>
