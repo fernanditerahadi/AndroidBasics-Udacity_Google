@@ -6,17 +6,17 @@ credits go to them.
 
 ## Pets App
 Displays a list of pets and their related data that the user inputs.
-* Screenshot
-* Project Directory
+* [Screenshot](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/Pets%20App/Screenshot)
+* [Project Directory](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/Pets%20App/Pets)
 
 ## Quakes Report App
 This app displays a list of recent earthquakes in the world from the U.S.
 Geological Survey (USGS) organization.
-* Screenshot
-* Project Directory
+* [Screenshot](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/QuakeReport%20App)
+* [Project Directory](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/QuakeReport%20App/QuakeReport)
 
 ## Miwok App
 This app displays a list of recent earthquakes in the world from the U.S.
 Geological Survey (USGS) organization.
-* Screenshot
-* Project Directory
+* [Screenshot](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/Miwok%20App/Screenshot)
+* [Project Directory](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/Miwok%20App/Miwok)
