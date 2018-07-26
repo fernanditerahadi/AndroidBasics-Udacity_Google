@@ -12,7 +12,7 @@ Displays a list of pets and their related data that the user inputs.
 ## Quakes Report App
 This app displays a list of recent earthquakes in the world from the U.S.
 Geological Survey (USGS) organization.
-* [Screenshot](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/QuakeReport%20App)
+* [Screenshot](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/QuakeReport%20App/Screenshot)
 * [Project Directory](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/QuakeReport%20App/QuakeReport)
 
 ## Miwok App
