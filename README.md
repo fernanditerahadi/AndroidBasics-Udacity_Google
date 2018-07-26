@@ -21,4 +21,4 @@ Geological Survey (USGS) organization.
 * [Screenshot](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/Miwok%20App/Screenshot)
 * [Project Directory](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/Miwok%20App/Miwok)
 
-> For fellow learners: my code may not be the same as the suggested solution and ironically though, my code may not adhere to the best practice standard as well
+> For fellow learners: my code may not be the same as the suggested solution. Ironically, though it works, my code may not adhere to the best practice standard 
