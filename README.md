@@ -4,6 +4,8 @@ with Google that help me to get started in developing Android App. Big thanks
 to the team behind the courses for designing this wonderful projects. All
 credits go to them.
 
+> For fellow learners: my code may not be the same as the suggested solution and ironically though, it may not adhere to the best practice standard as well
+
 ## Pets App
 Displays a list of pets and their related data that the user inputs.
 * [Screenshot](https://github.com/vinsensiusfernandi/AndroidBasics-Udacity_Google/tree/master/Pets%20App/Screenshot)
