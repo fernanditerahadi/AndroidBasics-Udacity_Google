@@ -4,7 +4,7 @@ with Google that help me to get started in developing Android App. Big thanks
 to the team behind the courses for designing this wonderful projects. All
 credits go to them.
 
-> For fellow learners: my code may not be the same as the suggested solution and ironically though, my code may not be the best practice as well
+> For fellow learners: my code may not be the same as the suggested solution and ironically though, my code may not adhere to the best practice standard as well
 
 ## Pets App
 Displays a list of pets and their related data that the user inputs.
